@@ -21,7 +21,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NabilB04/NabilB04/output/snake.svg" alt="Snake animation" />
 
 ###
 
